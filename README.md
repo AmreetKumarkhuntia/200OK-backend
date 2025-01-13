@@ -1,4 +1,4 @@
-<h1 align='center'>Team 200OK | API Fest 2022 &#x1F525; </h1>
+<h1 align='center'>Team 200OK Backend | API Fest 2022 &#x1F525; </h1>
 <p align='center'>
 <img src='http://ForTheBadge.com/images/badges/built-by-developers.svg'>&nbsp;
 <img class="badges" src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
