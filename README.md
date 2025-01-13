@@ -4,7 +4,7 @@
 <img class="badges" src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
 </p>
 
-## What is it? 💡
+## What is it? &#x1F4A1;
 This web application was created during the API Fest 2022 by team 200OK which helps the user search for hospitals across India based on a variety of parameters. We created a Hospital API with the help of Postman to create a working prototype.<br/>
 
 The Hospital API features searching by applying the following filters:<br/>
@@ -35,7 +35,7 @@ We can also update information like Available beds through this API.<br/>
 - [ ] Postman
 - [ ] OpenAPI
 
-## Prerequisites 👨‍💻
+## Prerequisites &#x1F468;&#x200D;&#x1F4BB;
 
 ### Install create-react-app
 Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
@@ -59,7 +59,7 @@ After the installation has completed, you can verify your Django installation by
  ```
  in the command prompt.
 
-## Cloning and Running the Application in local 💻
+## Cloning and Running the Application in local &#x1F4BB;  
 
 Clone the project in localhost
 ```bash
@@ -100,7 +100,7 @@ python manage.py runserver
 The Application Runs on **localhost:8000**
 
 
-## Important Links 🔴
+## Important Links &#x1F534;
 1. <a href="https://youtu.be/I_CJDzbNZiQ">Video Demo</a>
 2. <a href="https://200-ok-frontend.vercel.app/">Landing Page</a>
 3. <a href="https://hospitalapi200ok.herokuapp.com/hospital">Deployed Backend</a>
