@@ -1,9 +1,7 @@
 <h1 align='center'>Team 200OK | API Fest 2022🔥</h1>
 <p align='center'>
-<div class="badges">
 <img src='http://ForTheBadge.com/images/badges/built-by-developers.svg'>&nbsp;
 <img class="badges" src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
-</div>
 </p>
 
 ## What is it? 💡
