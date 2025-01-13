@@ -107,7 +107,7 @@ The Application Runs on **localhost:8000**
 4. <a href="https://github.com/sumana2001/200OK-frontend">Frontent Repository</a>
 5. <a href="https://github.com/sumana2001/200OK-backend">Backend Repository</a>
 
-## Screenshots 📸
+## Screenshots &#x1F4F8;
 
 <img width="1440" alt="Screenshot_2022-01-29_at_3 20 18_PM" src="https://user-images.githubusercontent.com/63084088/151656695-5f18db6e-b857-4df1-939c-6d710e4fc8a3.png">
 <img width="1440" alt="Screenshot_2022-01-29_at_3 22 33_PM" src="https://user-images.githubusercontent.com/63084088/151656696-1b48197e-6cea-447d-9e86-46ea46197e49.png">
