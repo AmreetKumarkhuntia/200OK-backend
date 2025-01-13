@@ -1,4 +1,4 @@
-<h1 align='center'>Team 200OK | API Fest 2022🔥</h1>
+<h1 align='center'>Team 200OK | API Fest 2022 &#x1F525; </h1>
 <p align='center'>
 <img src='http://ForTheBadge.com/images/badges/built-by-developers.svg'>&nbsp;
 <img class="badges" src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
@@ -18,7 +18,7 @@ The Hospital API features searching by applying the following filters:<br/>
 The Hospital API can also be used to add or delete a hospital from the database.<br/>
 We can also update information like Available beds through this API.<br/>
 
-## Team ✨
+## Team &#x2728;
 <table>
   <tr>
     <td align="center"><a href="https://github.com/AmreetKumarkhuntia"><img src="https://avatars.githubusercontent.com/u/79908976?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amreet Kumar Khuntia</b></sub></a></td>
@@ -29,7 +29,7 @@ We can also update information like Available beds through this API.<br/>
   </tr>
 </table>
 
-## Built With 💕 
+## Built With &#x1F495;
 - [ ] ReactJs
 - [ ] Django
 - [ ] Postman
